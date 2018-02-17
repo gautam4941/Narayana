@@ -319,3 +319,9 @@ def foldercreate():
             for i in list1:
                 print( i + '\n')
             break
+def functionname():
+     list1 = ['add' , 'sub' , 'mult' , 'div' , 'scan' , 'deletion' , 'copy' , 'move' , 'deletion' , 'foldercreate']
+        
+     for i in list1:
+         print(i)
+
