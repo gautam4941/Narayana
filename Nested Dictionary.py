@@ -1,34 +1,3 @@
-"""list1 = []
-
-while(True):
-    print( "Do you want to create a dictonary : y/n ?" )
-    if( input() == 'y'):
-
-        d = {}
-
-        while(True):
-            print("Enter the Key in dictionary or exit to move out")
-            
-            if(input() == 'exit'):
-                break
-            else:
-                head = input()
-
-            print("Enter the element of entered key ")
-            ele = input()
-
-            d[head] = ele
-
-        list1.append(d)
-        continue
-    else:
-        break
-
-for i in list1:
-    for x,y in i.items():
-
-        print(str(x) + " :- " + str(y) )
-"""
 d = {}
 
 while(True):                                                        ##Outer Dictionary
