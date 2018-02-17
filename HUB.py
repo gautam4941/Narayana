@@ -1,5 +1,9 @@
 import functions
 
+print("Following are the name of available functions, choose anyone of them")
+functions.functionname()
+
+print("")
 print("Enter the Function name that you want to use")
 funcname = input()                                          #Taking Input name of Function
 
